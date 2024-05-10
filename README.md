@@ -6,7 +6,7 @@ Pagination Handling: Iterates through multiple pages of listings to gather a com
 User-Agent Spoofing: Utilizes custom headers to mimic browser requests, ensuring smooth scraping without being blocked.
 Data Storage: Writes the extracted listing data to a JSON file (listings.json) for further analysis or integration with other applications.
 # How to Use:
-Clone the repository: git clone [https://github.com/your-username/real-estate-web-scraping.git](https://github.com/TheDanielll/parser_1-rent-.git)
+Clone the repository: git clone [https://github.com/TheDanielll/parser_1-rent-.git[(https://github.com/TheDanielll/parser_1-rent-.git)
 Install dependencies: pip install -r requirements.txt
 Run the script: python scrape_real_estate.py
 # Dependencies:
