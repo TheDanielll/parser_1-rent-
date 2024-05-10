@@ -1,4 +1,4 @@
-# New parser for parse content and ibfo from special site
+# New parser for parse content and info from special site
 This Python script scrapes real estate listings from the RealtyLink website and stores the data in a JSON file. It utilizes the requests library to fetch web pages, BeautifulSoup for parsing HTML, and json for handling JSON data.
 # Features:
 Listing Data Extraction: Parses individual real estate listings to extract relevant information such as title, address, description, price, date posted, number of rooms, area, and photo links.
